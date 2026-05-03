@@ -1,0 +1,30 @@
+Emir Abdelkader=The founder of the modern Algerian state and leader of the resistance against French colonization.{1808-1883}
+Lalla Fatma N'Soumer=A prominent figure in the Algerian resistance movement during the early years of French colonial rule.{1830-1863}
+Mustapha Ben Boulaid=One of the six historical leaders who founded the FLN and launched the Algerian War of Independence.{1917-1956}
+Abane Ramdane=The architect of the revolution and the primary organizer of the Soummam conference in 1956.{1920-1957}
+Larbi Ben M'hidi=A core leader of the FLN known for his bravery during the Battle of Algiers.{1923-1957}
+
+
+
+
+
+Emir Abdelkader=The founder of the modern Algerian state and leader of the resistance against French colonization.{06/09/1808-26/05/1883}
+Lalla Fatma N'Soumer=A prominent figure in the Algerian resistance movement during the early years of French colonial rule.{10/07/1830-18/01/1863}
+Mustapha Ben Boulaid=One of the six historical leaders who founded the FLN and launched the Algerian War of Independence.{05/02/1917-22/03/1956}
+Abane Ramdane=The architect of the revolution and the primary organizer of the Soummam conference in 1956.{10/06/1920-27/12/1957}
+Larbi Ben M'hidi=A core leader of the FLN known for his bravery during the Battle of Algiers.{01/01/1923-04/03/1957}
+
+
+one line to one person        FULL 
+
+
+
+
+Larbi Ben M'hidi=A revolutionary leader and one of the founders of the National Liberation Front (FLN) {20/04/1923-04/03/1957}
+Ahmed Zabana=The first martyr executed by guillotine during the Algerian War of Independence {03/01/1926-19/06/1956}
+Didouche Mourad=One of the six historical leaders who launched the revolution, nicknamed “Si Abdelkader” {13/07/1927-18/01/1955}
+:Outbreak of the Great Algerian War of Independence across various regions of the country {01/11/1954}
+:The Soummam Conference, which established the organizational foundations of the revolution {20/08/1956}
+:Mass demonstrations by the Algerian people rejecting colonial plans {11/12/1960}
+:Independence Day and national sovereignty after 132 years of colonization {05/07/1962}
+Djamila Bouhired=An icon of Algerian female resistance and a member of the National Liberation Front {16/09/1935}
