@@ -150,8 +150,16 @@ TTree addNameBST(TTree tr, char *name, char *DoB, char *DoD) {
     
     strcpy(p.definition, "New personality added manually"); 
 
-    p.birth = stringToDate(DoB); 
-    p.death = stringToDate(DoD);
+    Date* tempDateB = stringToDate(DoB);
+    if (tempDateB) {
+        p.birth = *tempDateB;
+        free(tempDateB);
+    }
+    Date* tempDateD = stringToDate(DoD);
+    if (tempDateD) {
+        p.death = *tempDateD;
+        free(tempDateD);
+    }
 
     tr = insertInBST(tr, p);
     
